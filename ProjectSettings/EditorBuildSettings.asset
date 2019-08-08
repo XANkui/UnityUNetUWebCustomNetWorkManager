@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/My_Scenez/FeiJi_Offline.unity
+    guid: fe3d8ee5defc5b54eb3e9519540eaf40
+  - enabled: 0
+    path: Assets/My_Scenez/FeiJi_Online.unity
+    guid: 88073c5a34076b448b1d9a861964f160
+  - enabled: 1
+    path: Assets/My_Scenez/FeiJi_Offline_CustomNetWorkManager.unity
+    guid: 069db7d2fcf72954e900382a8375b1cc
+  - enabled: 1
+    path: Assets/My_Scenez/FeiJi_Online_CustomNetWorkManager.unity
+    guid: eb18f153427661a489cdfeaae14b4f45
+  m_configObjects: {}
